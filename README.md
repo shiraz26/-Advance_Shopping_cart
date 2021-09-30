@@ -9,6 +9,7 @@ Before you execute this project make sure you insert values in the database. to 
                         ('Sony E7 Headphones',147,'./upload/product2.png'),
                         ('Sony Xperia Z4',459,'./upload/product3.png'),
                         ('Samsung Galaxy A50',278,'./upload/product4.png')";
+<br>
 Ones you insert these values just execute your application. that's it.
 
 Thank you.
